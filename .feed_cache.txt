@@ -28,3 +28,13 @@ https://blog.talosintelligence.com/uat-9686/
 https://cloud.google.com/blog/topics/threat-intelligence/threat-actors-exploit-react2shell-cve-2025-55182/
 https://cloud.google.com/blog/topics/threat-intelligence/intellexa-zero-day-exploits-continue/
 https://cloud.google.com/blog/topics/threat-intelligence/apt24-pivot-to-multi-vector-attacks/
+https://www.sentinelone.com/labs/llms-ransomware-an-operational-accelerator-not-a-revolution/
+https://www.sentinelone.com/labs/malicious-apprentice-how-two-hackers-went-from-cisco-academy-to-cisco-cves/
+https://www.sentinelone.com/labs/labscon25-replay-simulation-meets-reality-how-chinas-cyber-ranges-fuel-cyber-operations/
+https://securelist.com/honeymyte-kernel-mode-rootkit/118590/
+https://securelist.com/industrial-threat-report-q3-2025/118602/
+https://securelist.com/evasive-panda-apt/118576/
+https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-december-2025/
+https://www.welivesecurity.com/en/scams/brush-online-fraud-what-are-brushing-scams-how-do-i-stay-safe/
+https://www.welivesecurity.com/en/eset-research/revisiting-cve-2025-50165-critical-flaw-windows-imaging-component/
+https://research.checkpoint.com/2025/29th-december-threat-intelligence-report/
