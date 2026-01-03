@@ -8,3 +8,13 @@ https://www.cisa.gov/news-events/alerts/2004/01/28/mydoomb-virus
 https://www.cisa.gov/news-events/alerts/2004/02/02/multiple-vulnerabilities-microsoft-internet-explorer
 https://www.cisa.gov/news-events/alerts/2004/02/05/http-parsing-vulnerabilities-check-point-firewall-1
 https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/
+https://www.microsoft.com/en-us/security/blog/2025/12/17/access-fabric-a-modern-approach-to-identity-and-network-access/
+https://www.microsoft.com/en-us/security/blog/2025/12/15/defending-against-the-cve-2025-55182-react2shell-vulnerability-in-react-server-components/
+https://blog.google/threat-analysis-group/tag-bulletin-q3-2025/
+https://blog.google/threat-analysis-group/tag-bulletin-q2-2025/
+https://blog.google/threat-analysis-group/tag-bulletin-q1-2025/
+https://projectzero.google/2025/12/welcome.html
+https://projectzero.google/2025/12/thinking-outside-the-box.html
+https://projectzero.google/2025/12/windows-exploitation-techniques.html
+https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/
+https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/
