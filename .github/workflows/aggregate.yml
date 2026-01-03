@@ -33,7 +33,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add content/posts/ .feed_cache.txt
-          git diff --quiet && git diff --staged --quiet || git commit -m "Add new threat intel posts [skip ci]"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Add new threat intel posts"
           
       - name: Push changes
         uses: ad-m/github-push-action@master
