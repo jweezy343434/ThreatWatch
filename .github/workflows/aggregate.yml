@@ -2,8 +2,8 @@ name: Aggregate Threat Feeds
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
-  workflow_dispatch:  # Manual trigger
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   aggregate:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
         
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -30,10 +30,13 @@ jobs:
         run: |
           python scripts/aggregate_feeds.py
           
-      - name: Commit and push new posts
+      - name: Commit and push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git pull origin main --rebase
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git pull --rebase origin main
           git add content/posts/ .feed_cache.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Add new threat intel posts" && git push origin main)
+          if ! git diff --staged --quiet; then
+            git commit -m "Add new threat intel posts"
+            git push origin main
+          fi
