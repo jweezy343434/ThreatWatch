@@ -1,10 +1,10 @@
 baseURL = "https://threatwatch.dev/"
-languageCode = "en-us"
 title = "ThreatWatch"
+languageCode = "en-us"
 paginate = 20
 
 [params]
   description = "Real-time threat intelligence news with AI-powered analysis"
-  
+
 [minify]
   minifyOutput = true
