@@ -62,9 +62,17 @@ def fetch_entries(feeds):
     return new_entries[:MAX_ARTICLES]
 
 def generate_analysis(entry):
-    client = anthropic.Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
+    # Check if API key exists
+    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    if not api_key:
+        return "Analysis unavailable: ANTHROPIC_API_KEY not set in environment"
     
-    prompt = f"""Analyze this cybersecurity threat:
+    print(f"  Using API key: {api_key[:10]}...")
+    
+    try:
+        client = anthropic.Anthropic(api_key=api_key)
+        
+        prompt = f"""Analyze this cybersecurity threat:
 
 Title: {entry['title']}
 Source: {entry['source']}
@@ -82,15 +90,23 @@ What to do
 
 Keep under 250 words."""
 
-    try:
         message = client.messages.create(
             model="claude-sonnet-4-20250514",
             max_tokens=800,
             messages=[{"role": "user", "content": prompt}]
         )
         return message.content[0].text
+        
+    except anthropic.AuthenticationError as e:
+        return f"Analysis unavailable: Invalid API key - {str(e)}"
+    except anthropic.RateLimitError as e:
+        return f"Analysis unavailable: Rate limit exceeded - {str(e)}"
+    except anthropic.APIConnectionError as e:
+        return f"Analysis unavailable: Connection failed - {str(e)}"
+    except anthropic.APIError as e:
+        return f"Analysis unavailable: API error - {str(e)}"
     except Exception as e:
-        return f"Analysis unavailable: {e}"
+        return f"Analysis unavailable: Unexpected error - {type(e).__name__}: {str(e)}"
 
 def create_hugo_post(entry, analysis):
     slug = entry['title'].lower()
