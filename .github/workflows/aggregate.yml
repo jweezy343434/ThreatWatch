@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
         
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -28,15 +30,10 @@ jobs:
         run: |
           python scripts/aggregate_feeds.py
           
-      - name: Commit new posts
+      - name: Commit and push new posts
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull origin main --rebase
           git add content/posts/ .feed_cache.txt
-          git diff --quiet && git diff --staged --quiet || git commit -m "Add new threat intel posts"
-          
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Add new threat intel posts" && git push origin main)
