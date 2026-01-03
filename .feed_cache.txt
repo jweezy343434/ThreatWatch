@@ -18,3 +18,13 @@ https://projectzero.google/2025/12/thinking-outside-the-box.html
 https://projectzero.google/2025/12/windows-exploitation-techniques.html
 https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/
 https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/
+https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/
+https://unit42.paloaltonetworks.com/vvs-stealer/
+https://unit42.paloaltonetworks.com/cybersecurity-is-for-everyone/
+https://unit42.paloaltonetworks.com/ransomhouse-encryption-upgrade/
+https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/
+https://blog.talosintelligence.com/libbiosig-grassroot-dicom-smallstep-step-ca-vulnerabilities/
+https://blog.talosintelligence.com/uat-9686/
+https://cloud.google.com/blog/topics/threat-intelligence/threat-actors-exploit-react2shell-cve-2025-55182/
+https://cloud.google.com/blog/topics/threat-intelligence/intellexa-zero-day-exploits-continue/
+https://cloud.google.com/blog/topics/threat-intelligence/apt24-pivot-to-multi-vector-attacks/
