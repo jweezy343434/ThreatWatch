@@ -38,3 +38,13 @@ https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-december-2
 https://www.welivesecurity.com/en/scams/brush-online-fraud-what-are-brushing-scams-how-do-i-stay-safe/
 https://www.welivesecurity.com/en/eset-research/revisiting-cve-2025-50165-critical-flaw-windows-imaging-component/
 https://research.checkpoint.com/2025/29th-december-threat-intelligence-report/
+https://research.checkpoint.com/2025/22nd-december-threat-intelligence-report/
+https://research.checkpoint.com/2025/gachiloader-node-js-malware-with-api-tracing/
+https://feeds.fortinet.com/~/932574884/0/fortinet/blog/threat-research~Uncovering-Hidden-Forensic-Evidence-in-Windows-The-Mystery-of-AutoLoggerDiagtrackListeneretl
+https://feeds.fortinet.com/~/931297808/0/fortinet/blog/threat-research~UDPGangster-Campaigns-Target-Multiple-Countries
+https://feeds.fortinet.com/~/930995705/0/fortinet/blog/threat-research~New-eBPF-Filters-for-Symbiote-and-BPFdoor-Malware
+https://www.trendmicro.com/en_us/research/25/l/managing-cyber-risk-with-executives.html
+https://www.trendmicro.com/en_us/research/25/l/operation-sentinel-digital-extortion-campaigns-identified.html
+https://www.trendmicro.com/en_us/research/25/l/managing-cloud-risk.html
+https://blog.qualys.com/category/product-tech
+https://blog.qualys.com/category/product-tech
