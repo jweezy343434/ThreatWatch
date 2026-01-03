@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Dec 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>http://localhost:1313/posts/2025-12-30-cisa-releases-two-industrial-control-systems-advis-cf4257d3/</link>
+      <pubDate>Tue, 30 Dec 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-12-30-cisa-releases-two-industrial-control-systems-advis-cf4257d3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What Happened&lt;/strong&gt;&#xA;CISA has published two new Industrial Control Systems (ICS) advisories addressing critical vulnerabilities in operational technology infrastructure. These advisories typically detail security flaws in SCADA systems, programmable logic controllers (PLCs), human-machine interfaces (HMIs), or related industrial automation components. The vulnerabilities likely include issues such as authentication bypasses, remote code execution, or denial-of-service conditions that could allow unauthorized access to critical industrial processes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&#xA;ICS vulnerabilities pose significant risks to critical infrastructure sectors including manufacturing, energy, water treatment, and transportation systems. Successful exploitation could enable attackers to disrupt industrial operations, manipulate safety systems, cause equipment damage, or gain persistent access to operational networks. These threats can result in production downtime, safety hazards to personnel, environmental incidents, and potential cascading effects on dependent services. Nation-state actors and cybercriminals increasingly target ICS environments, making these advisories particularly crucial for maintaining operational security.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WHILL Model C2 Electric Wheelchairs and Model F Power Chairs</title>
+      <link>http://localhost:1313/posts/2025-12-30-whill-model-c2-electric-wheelchairs-and-model-f-po-fa95f30f/</link>
+      <pubDate>Tue, 30 Dec 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-12-30-whill-model-c2-electric-wheelchairs-and-model-f-po-fa95f30f/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What Happened&lt;/strong&gt;&#xA;WHILL Model C2 electric wheelchairs and Model F power chairs contain critical cybersecurity vulnerabilities in their connected systems. These mobility devices use wireless connectivity and mobile applications for remote control and monitoring features. Security researchers identified weaknesses in the devices&amp;rsquo; communication protocols, authentication mechanisms, or software components that could allow unauthorized access to the wheelchair&amp;rsquo;s control systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&#xA;This vulnerability poses serious safety risks to users who depend on these mobility devices for daily transportation and independence. Malicious actors could potentially gain unauthorized control over wheelchair functions, including steering, speed, and braking systems, putting users at immediate physical risk. Beyond safety concerns, attackers might access personal data stored on connected devices or intercept communications between the wheelchair and companion mobile applications, compromising user privacy and location information.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>http://localhost:1313/posts/2025-12-29-cisa-adds-one-known-exploited-vulnerability-to-cat-cff0fce6/</link>
+      <pubDate>Mon, 29 Dec 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-12-29-cisa-adds-one-known-exploited-vulnerability-to-cat-cff0fce6/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What Happened&lt;/strong&gt;&#xA;CISA has added a new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, indicating that threat actors are actively exploiting this security flaw in real-world attacks. The KEV Catalog serves as CISA&amp;rsquo;s authoritative list of vulnerabilities that pose significant risk to federal networks and critical infrastructure. When a vulnerability is added to this catalog, it means there is reliable evidence of active exploitation, moving it from theoretical risk to confirmed threat status.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Microsoft e-book: 3 reasons point solutions are holding you back</title>
+      <link>http://localhost:1313/posts/2025-12-18-new-microsoft-e-book-3-reasons-point-solutions-are-8f4aa8ab/</link>
+      <pubDate>Thu, 18 Dec 2025 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-12-18-new-microsoft-e-book-3-reasons-point-solutions-are-8f4aa8ab/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What Happened&lt;/strong&gt;&#xA;This appears to be a Microsoft marketing publication rather than a cybersecurity threat report. The title suggests Microsoft has released an e-book discussing limitations of point security solutions - standalone tools that address specific security functions rather than integrated platforms. Without access to the actual content, this likely covers how disparate security tools create management complexity, visibility gaps, and integration challenges for organizations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&#xA;If this follows typical Microsoft security positioning, the publication probably argues that fragmented point solutions create operational inefficiencies, increase total cost of ownership, and leave security gaps between tools. Organizations using multiple vendors for different security functions may struggle with correlation of threats, consistent policy enforcement, and streamlined incident response. This fragmentation can lead to alert fatigue, delayed threat detection, and increased administrative overhead for security teams.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ABB NETCADOPS HELP SYSTEM VULNERABILITY</title>
+      <link>http://localhost:1313/posts/2010-04-27-abb-netcadops-help-system-vulnerability-74f15836/</link>
+      <pubDate>Tue, 27 Apr 2010 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2010-04-27-abb-netcadops-help-system-vulnerability-74f15836/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What Happened&lt;/strong&gt;&#xA;ABB&amp;rsquo;s NETCADOPS help system contains a critical vulnerability that allows unauthorized access to sensitive network operations data. The flaw exists in the web-based interface used for managing industrial control systems, potentially enabling attackers to bypass authentication mechanisms and gain elevated privileges. This vulnerability affects multiple versions of the NETCADOPS software used in power grid and industrial automation environments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&#xA;This vulnerability poses significant risks to critical infrastructure operations. Successful exploitation could allow attackers to access confidential operational data, modify system configurations, or disrupt power grid operations. Given ABB&amp;rsquo;s widespread deployment in electrical utilities and industrial facilities, this vulnerability could impact national critical infrastructure, potentially leading to power outages, operational disruptions, or unauthorized surveillance of sensitive industrial processes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mariposa Botnet</title>
+      <link>http://localhost:1313/posts/2010-03-31-mariposa-botnet-735200f9/</link>
+      <pubDate>Wed, 31 Mar 2010 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2010-03-31-mariposa-botnet-735200f9/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What Happened&lt;/strong&gt;&#xA;The Mariposa botnet was a sophisticated malware operation that infected millions of computers worldwide between 2008-2010. The botnet utilized the Butterfly Bot (also called Palevo) malware, which spread through removable drives, instant messaging, and peer-to-peer networks. Once infected, compromised machines became part of a distributed network controlled by cybercriminals who could steal credentials, financial data, and personal information from infected systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&#xA;Mariposa demonstrated the massive scale and economic damage botnets can inflict on critical infrastructure and organizations. The botnet compromised over 13 million IP addresses across 190+ countries, including systems belonging to major corporations, government agencies, and financial institutions. Infected machines experienced degraded performance, data theft, and served as launching points for additional attacks. The botnet&amp;rsquo;s ability to update itself and download additional malware made it particularly persistent and dangerous.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rockwell PLC5/SLC5/0x/RSLogix Security Vulnerability</title>
+      <link>http://localhost:1313/posts/2010-03-10-rockwell-plc5slc50xrslogix-security-vulnerability-6ed2fb44/</link>
+      <pubDate>Wed, 10 Mar 2010 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2010-03-10-rockwell-plc5slc50xrslogix-security-vulnerability-6ed2fb44/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What Happened&lt;/strong&gt;&#xA;CISA identified critical security vulnerabilities in Rockwell Automation&amp;rsquo;s legacy PLC5 and SLC 500 series programmable logic controllers, along with associated RSLogix programming software. These industrial control systems lack modern authentication mechanisms and encrypted communications, making them susceptible to unauthorized access, code modification, and network-based attacks. The vulnerabilities primarily stem from outdated security architectures that were designed before cybersecurity became a priority in operational technology environments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&#xA;These vulnerabilities pose significant risks to critical infrastructure and manufacturing operations. Attackers could potentially halt production lines, manipulate safety systems, steal proprietary control logic, or use compromised PLCs as pivot points for broader network infiltration. Given that these legacy systems are widely deployed across manufacturing, energy, water treatment, and other critical sectors, successful exploitation could result in operational disruptions, safety incidents, economic losses, and potential harm to public safety. The lack of visibility into unauthorized changes makes detection particularly challenging.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HTTP Parsing Vulnerabilities in Check Point Firewall-1</title>
+      <link>http://localhost:1313/posts/2004-02-05-http-parsing-vulnerabilities-in-check-point-firewa-e9d0bc77/</link>
+      <pubDate>Thu, 05 Feb 2004 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2004-02-05-http-parsing-vulnerabilities-in-check-point-firewa-e9d0bc77/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What Happened&lt;/strong&gt;&#xA;Check Point Firewall-1 contains HTTP parsing vulnerabilities that allow attackers to bypass security controls through malformed HTTP requests. The firewall&amp;rsquo;s HTTP inspection engine fails to properly validate and parse certain HTTP traffic, enabling threat actors to smuggle malicious content past the security gateway. These parsing flaws can be exploited remotely without authentication, making them particularly dangerous for organizations relying on Check Point firewalls for perimeter defense.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&#xA;This vulnerability undermines the fundamental security function of affected firewalls, potentially exposing internal networks to various attacks. Attackers could bypass content filtering, intrusion prevention systems, and application controls by crafting specially formatted HTTP requests that the firewall misinterprets. Organizations may unknowingly allow malicious traffic, malware downloads, or command-and-control communications to traverse their networks. The vulnerability poses significant risk to data integrity, confidentiality, and network security posture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multiple Vulnerabilities in Microsoft Internet Explorer</title>
+      <link>http://localhost:1313/posts/2004-02-02-multiple-vulnerabilities-in-microsoft-internet-exp-7a89a68d/</link>
+      <pubDate>Mon, 02 Feb 2004 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2004-02-02-multiple-vulnerabilities-in-microsoft-internet-exp-7a89a68d/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What Happened&lt;/strong&gt;&#xA;Microsoft Internet Explorer contains multiple critical security vulnerabilities that could allow remote attackers to execute arbitrary code on affected systems. These flaws typically involve memory corruption issues, use-after-free vulnerabilities, and improper input validation in the browser&amp;rsquo;s rendering engine. Attackers can exploit these weaknesses by crafting malicious web pages or email attachments that trigger the vulnerabilities when users visit compromised sites or open infected content.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&#xA;Successful exploitation grants attackers complete control over victim systems, enabling data theft, malware installation, and unauthorized access to sensitive information. Given Internet Explorer&amp;rsquo;s integration with Windows operating systems, these vulnerabilities pose significant risks to both individual users and enterprise networks. Organizations using IE for business-critical applications face potential data breaches, system compromises, and operational disruptions. The widespread deployment of IE in legacy systems makes this particularly concerning for government agencies and large corporations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MyDoom.B Virus</title>
+      <link>http://localhost:1313/posts/2004-01-28-mydoomb-virus-42fcc15e/</link>
+      <pubDate>Wed, 28 Jan 2004 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2004-01-28-mydoomb-virus-42fcc15e/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What Happened&lt;/strong&gt;&#xA;MyDoom.B is a mass-mailing computer worm that spreads through email attachments and peer-to-peer networks. The malware creates backdoors on infected systems, allowing remote access while also launching distributed denial-of-service (DDoS) attacks against specific targets. It propagates by harvesting email addresses from infected computers and sending copies of itself to those contacts with deceptive subject lines and attachments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&#xA;This worm poses significant risks to both individual users and organizations through data theft, system compromise, and network disruption. Infected computers become part of a botnet, consuming bandwidth and processing power while potentially exposing sensitive information. The DDoS capability can render targeted websites and services unavailable, disrupting business operations and online services critical to daily operations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

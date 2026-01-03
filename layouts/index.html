@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ range .Site.RegularPages }}
+<article>
+    <h2><a href="{{ .Params.source_url }}" target="_blank">{{ .Title }}</a></h2>
+    <div class="meta">
+        <span class="source">{{ .Params.source }}</span> •
+        <time>{{ .Date.Format "Jan 2, 2006 15:04 MST" }}</time>
+    </div>
+    <div class="analysis">{{ .Content }}</div>
+</article>
+{{ end }}
+{{ end }}

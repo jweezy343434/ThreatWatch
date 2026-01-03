@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --bg: #0a0a0a;
+            --text: #e5e5e5;
+            --accent: #ff4444;
+            --border: #2a2a2a;
+            --gray: #666;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+        header {
+            border-bottom: 1px solid var(--border);
+            padding: 1.5rem 0;
+            margin-bottom: 2rem;
+        }
+        header h1 { font-size: 1.75rem; font-weight: 600; margin-bottom: 0.25rem; }
+        header .tagline { color: var(--gray); font-size: 0.875rem; }
+        article { border-bottom: 1px solid var(--border); padding: 1.5rem 0; }
+        article:last-child { border: none; }
+        h2 a { color: var(--text); text-decoration: none; font-size: 1.25rem; font-weight: 500; }
+        h2 a:hover { color: var(--accent); }
+        .meta { color: var(--gray); font-size: 0.875rem; margin: 0.5rem 0; }
+        .source { color: var(--accent); font-weight: 500; }
+        .summary { margin: 0.75rem 0; }
+        .analysis { background: #111; border-left: 3px solid var(--accent); padding: 1rem; margin: 1rem 0; }
+        footer { border-top: 1px solid var(--border); padding: 2rem 0; margin-top: 4rem; text-align: center; color: var(--gray); font-size: 0.875rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>⚡ ThreatWatch</h1>
+        <p class="tagline">Automated Threat Intelligence Analysis</p>
+    </header>
+    <main>{{ block "main" . }}{{ end }}</main>
+    <footer><p>ThreatWatch • Powered by Claude AI • Updates hourly</p></footer>
+</body>
+</html>

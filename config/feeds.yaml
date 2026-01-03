@@ -1,0 +1,475 @@
+feeds:
+  # TIER 1: Critical - Government/Official (3 feeds)
+  - name: "CISA Cybersecurity Advisories"
+    url: "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+    category: "alerts"
+    priority: 1
+    
+  - name: "CISA ICS Advisories"
+    url: "https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml"
+    category: "alerts"
+    priority: 1
+    
+  - name: "US-CERT Current Activity"
+    url: "https://www.cisa.gov/uscert/ncas/current-activity.xml"
+    category: "alerts"
+    priority: 1
+
+  # TIER 2: High - Enterprise Threat Intel (20 feeds)
+  - name: "Microsoft Security Blog"
+    url: "https://www.microsoft.com/en-us/security/blog/feed/"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Google Threat Analysis Group"
+    url: "https://blog.google/threat-analysis-group/rss/"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Google Project Zero"
+    url: "https://googleprojectzero.blogspot.com/feeds/posts/default"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "CrowdStrike"
+    url: "https://www.crowdstrike.com/en-us/blog/feed"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Palo Alto Unit 42"
+    url: "https://unit42.paloaltonetworks.com/feed/?v=2"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Cisco Talos Intelligence"
+    url: "https://blog.talosintelligence.com/rss/"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Mandiant Google Cloud"
+    url: "https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "SentinelLabs"
+    url: "https://www.sentinelone.com/labs/feed/"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Kaspersky Securelist"
+    url: "https://securelist.com/feed/"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "ESET WeLiveSecurity"
+    url: "https://www.welivesecurity.com/en/rss/feed/"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Check Point Research"
+    url: "https://research.checkpoint.com/feed/"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Fortinet Threat Research"
+    url: "https://feeds.fortinet.com/fortinet/blog/threat-research&x=1"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Sophos Threat Research"
+    url: "https://news.sophos.com/en-us/category/threat-research/feed/"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Trend Micro"
+    url: "http://feeds.trendmicro.com/TrendMicroSimplySecurity"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Qualys Blog"
+    url: "https://blog.qualys.com/feed"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Rapid7"
+    url: "https://www.rapid7.com/rss.xml"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Recorded Future"
+    url: "https://www.recordedfuture.com/feed"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Tenable"
+    url: "https://feeds.feedburner.com/tenable/qaXL"
+    category: "vendor-intel"
+    priority: 2
+    
+  - name: "Akamai Blog"
+    url: "https://feeds.feedburner.com/akamai/blog"
+    category: "vendor-intel"
+    priority: 2
+
+  # TIER 3: Medium - News & Analysis (18 feeds)
+  - name: "BleepingComputer"
+    url: "https://www.bleepingcomputer.com/feed/"
+    category: "news"
+    priority: 3
+    
+  - name: "The Hacker News"
+    url: "https://feeds.feedburner.com/TheHackersNews"
+    category: "news"
+    priority: 3
+    
+  - name: "Krebs on Security"
+    url: "http://krebsonsecurity.com/feed/"
+    category: "analysis"
+    priority: 3
+    
+  - name: "Schneier on Security"
+    url: "https://www.schneier.com/blog/atom.xml"
+    category: "analysis"
+    priority: 3
+    
+  - name: "Dark Reading"
+    url: "https://www.darkreading.com/rss.xml"
+    category: "news"
+    priority: 3
+    
+  - name: "SecurityWeek"
+    url: "https://feeds.feedburner.com/securityweek"
+    category: "news"
+    priority: 3
+    
+  - name: "The Register Security"
+    url: "https://www.theregister.com/security/headlines.rss"
+    category: "news"
+    priority: 3
+    
+  - name: "Ars Technica Security"
+    url: "https://arstechnica.com/tag/security/feed/"
+    category: "news"
+    priority: 3
+    
+  - name: "Help Net Security"
+    url: "https://www.helpnetsecurity.com/view/news/feed/"
+    category: "news"
+    priority: 3
+    
+  - name: "Graham Cluley"
+    url: "https://grahamcluley.com/category/security-threats/malware/feed/"
+    category: "analysis"
+    priority: 3
+    
+  - name: "Malwarebytes Blog"
+    url: "https://blog.malwarebytes.com/feed/"
+    category: "news"
+    priority: 3
+    
+  - name: "Krebs Data Breaches"
+    url: "https://krebsonsecurity.com/category/data-breaches/feed/"
+    category: "analysis"
+    priority: 3
+    
+  - name: "Security Affairs"
+    url: "https://securityaffairs.com/feed"
+    category: "news"
+    priority: 3
+    
+  - name: "Cybersecurity News"
+    url: "https://cybersecuritynews.com/feed/"
+    category: "news"
+    priority: 3
+    
+  - name: "GBHackers"
+    url: "https://gbhackers.com/feed/"
+    category: "news"
+    priority: 3
+    
+  - name: "CyberScoop"
+    url: "https://cyberscoop.com/feed/"
+    category: "news"
+    priority: 3
+    
+  - name: "The Daily Swig"
+    url: "https://portswigger.net/daily-swig/rss"
+    category: "news"
+    priority: 3
+
+  # TIER 4: Specialized Research (25 feeds)
+  - name: "The DFIR Report"
+    url: "https://thedfirreport.com/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "EclecticIQ"
+    url: "https://blog.eclecticiq.com/rss.xml"
+    category: "research"
+    priority: 4
+    
+  - name: "Sekoia"
+    url: "https://blog.sekoia.io/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Volexity"
+    url: "https://www.volexity.com/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Group-IB"
+    url: "https://www.group-ib.com/feed/blogfeed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Cyble"
+    url: "https://cyble.com/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Lab52"
+    url: "https://lab52.io/blog/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Intezer"
+    url: "https://intezer.com/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "SOCRadar"
+    url: "https://socradar.io/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Trustwave SpiderLabs"
+    url: "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rss.xml"
+    category: "research"
+    priority: 4
+    
+  - name: "SpecterOps"
+    url: "https://posts.specterops.io/feed"
+    category: "research"
+    priority: 4
+    
+  - name: "Trail of Bits"
+    url: "https://blog.trailofbits.com/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Quarkslab"
+    url: "https://blog.quarkslab.com/feeds/all.rss.xml"
+    category: "research"
+    priority: 4
+    
+  - name: "Silent Push"
+    url: "https://www.silentpush.com/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Red Canary"
+    url: "https://redcanary.com/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Fidelis Security"
+    url: "https://fidelissecurity.com/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Bitdefender Labs"
+    url: "https://www.bitdefender.com/nuxt/api/en-us/rss/labs/"
+    category: "research"
+    priority: 4
+    
+  - name: "HP Wolf Security"
+    url: "https://threatresearch.ext.hp.com/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "Morphisec"
+    url: "https://www.morphisec.com/feed/?post_type=blog"
+    category: "research"
+    priority: 4
+    
+  - name: "Zscaler"
+    url: "https://www.zscaler.com/blogs/feeds/security-research"
+    category: "research"
+    priority: 4
+    
+  - name: "Wiz"
+    url: "https://www.wiz.io/api/feed/cloud-threat-landscape/rss.xml"
+    category: "research"
+    priority: 4
+    
+  - name: "Permiso"
+    url: "https://permiso.io/blog/rss.xml"
+    category: "research"
+    priority: 4
+    
+  - name: "Cisco Talos"
+    url: "https://feeds.feedburner.com/feedburner/Talos"
+    category: "research"
+    priority: 4
+    
+  - name: "AhnLab ASEC"
+    url: "https://asec.ahnlab.com/en/feed/"
+    category: "research"
+    priority: 4
+    
+  - name: "JPCERT/CC"
+    url: "https://blogs.jpcert.or.jp/en/atom.xml"
+    category: "research"
+    priority: 4
+
+  # TIER 5: Community & Analysts (30 feeds)
+  - name: "Kevin Beaumont DoublePulsar"
+    url: "https://doublepulsar.com/feed"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Troy Hunt"
+    url: "https://www.troyhunt.com/rss/"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Blaze Security Blog"
+    url: "https://bartblaze.blogspot.com/feeds/posts/default"
+    category: "analyst"
+    priority: 5
+    
+  - name: "BushidoToken Threat Intel"
+    url: "https://blog.bushidotoken.net/feeds/posts/default"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Curated Intelligence"
+    url: "https://www.curatedintel.org/feeds/posts/default"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Cyber Intelligence Insights"
+    url: "https://intelinsights.substack.com/feed"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Cybercrime Diaries"
+    url: "https://www.cybercrimediaries.com/blog-feed.xml"
+    category: "analyst"
+    priority: 5
+    
+  - name: "DataBreaches.net"
+    url: "https://www.databreaches.net/feed/"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Citizen Lab"
+    url: "https://citizenlab.ca/feed/"
+    category: "community"
+    priority: 5
+    
+  - name: "ISC SANS Diary"
+    url: "https://isc.sans.edu/rssfeed_full.xml"
+    category: "community"
+    priority: 5
+    
+  - name: "Zero Day Initiative Blog"
+    url: "https://www.zerodayinitiative.com/blog/?format=rss"
+    category: "community"
+    priority: 5
+    
+  - name: "PortSwigger Research"
+    url: "https://portswigger.net/research/rss"
+    category: "community"
+    priority: 5
+    
+  - name: "Intigriti Blog"
+    url: "https://blog.intigriti.com/feed/"
+    category: "community"
+    priority: 5
+    
+  - name: "Lohrmann on Cybersecurity"
+    url: "http://feeds.feedburner.com/govtech/blogs/lohrmann_on_infrastructure"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Didier Stevens"
+    url: "https://blog.didierstevens.com/feed/"
+    category: "analyst"
+    priority: 5
+    
+  - name: "VirusTotal Blog"
+    url: "https://blog.virustotal.com/feeds/posts/default"
+    category: "community"
+    priority: 5
+    
+  - name: "KnowBe4 Blog"
+    url: "https://blog.knowbe4.com/rss.xml"
+    category: "community"
+    priority: 5
+    
+  - name: "Pulsedive"
+    url: "https://blog.pulsedive.com/rss/"
+    category: "community"
+    priority: 5
+    
+  - name: "Sucuri Blog"
+    url: "https://feeds.feedburner.com/sucuri/blog"
+    category: "community"
+    priority: 5
+    
+  - name: "Fox-IT"
+    url: "https://blog.fox-it.com/feed/"
+    category: "analyst"
+    priority: 5
+    
+  - name: "NVISO Labs"
+    url: "https://blog.nviso.eu/feed/"
+    category: "analyst"
+    priority: 5
+    
+  - name: "BishopFox Labs"
+    url: "https://labs.bishopfox.com/tech-blog/rss.xml"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Binary Ninja"
+    url: "https://binary.ninja/feed.xml"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Public Cloud Breaches"
+    url: "https://www.breaches.cloud/index.xml"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Objective-See"
+    url: "https://objective-see.com/rss.xml"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Cyberwardog"
+    url: "https://cyberwardog.blogspot.com/feeds/posts/default"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Outflank"
+    url: "https://outflank.nl/blog/feed/"
+    category: "analyst"
+    priority: 5
+    
+  - name: "CERT.PL"
+    url: "https://cert.pl/en/atom.xml"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Claroty Team82"
+    url: "https://claroty.com/team82/disclosure-dashboard/feed/atom"
+    category: "analyst"
+    priority: 5
+    
+  - name: "Wallarm Lab"
+    url: "https://lab.wallarm.com/feed/"
+    category: "analyst"
+    priority: 5

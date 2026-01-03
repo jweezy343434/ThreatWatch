@@ -1,0 +1,10 @@
+https://www.cisa.gov/news-events/alerts/2025/12/30/cisa-releases-two-industrial-control-systems-advisories
+https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01
+https://www.cisa.gov/news-events/alerts/2025/12/29/cisa-adds-one-known-exploited-vulnerability-catalog
+https://www.cisa.gov/news-events/ics-advisories/icsa-10-070-02
+https://www.cisa.gov/news-events/ics-advisories/icsa-10-090-01
+https://www.cisa.gov/news-events/ics-advisories/icsa-10-097-01
+https://www.cisa.gov/news-events/alerts/2004/01/28/mydoomb-virus
+https://www.cisa.gov/news-events/alerts/2004/02/02/multiple-vulnerabilities-microsoft-internet-explorer
+https://www.cisa.gov/news-events/alerts/2004/02/05/http-parsing-vulnerabilities-check-point-firewall-1
+https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/
