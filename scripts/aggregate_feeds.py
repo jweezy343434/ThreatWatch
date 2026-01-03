@@ -7,6 +7,7 @@ import hashlib
 from datetime import datetime, timedelta
 from pathlib import Path
 import time
+import sys
 
 FEEDS_CONFIG = 'config/feeds.yaml'
 CONTENT_DIR = 'content/posts'
@@ -62,9 +63,9 @@ def fetch_entries(feeds):
     return new_entries[:MAX_ARTICLES]
 
 def generate_analysis(entry):
-    # Check if API key exists
     api_key = os.environ.get('ANTHROPIC_API_KEY')
     if not api_key:
+        print("ERROR: ANTHROPIC_API_KEY not set", file=sys.stderr)
         return "Analysis unavailable: ANTHROPIC_API_KEY not set in environment"
     
     print(f"  Using API key: {api_key[:10]}...")
@@ -90,23 +91,25 @@ What to do
 
 Keep under 250 words."""
 
+        print(f"  Making API call to Anthropic...")
         message = client.messages.create(
             model="claude-sonnet-4-20250514",
             max_tokens=800,
             messages=[{"role": "user", "content": prompt}]
         )
+        print(f"  API call successful")
         return message.content[0].text
         
-    except anthropic.AuthenticationError as e:
-        return f"Analysis unavailable: Invalid API key - {str(e)}"
-    except anthropic.RateLimitError as e:
-        return f"Analysis unavailable: Rate limit exceeded - {str(e)}"
-    except anthropic.APIConnectionError as e:
-        return f"Analysis unavailable: Connection failed - {str(e)}"
-    except anthropic.APIError as e:
-        return f"Analysis unavailable: API error - {str(e)}"
     except Exception as e:
-        return f"Analysis unavailable: Unexpected error - {type(e).__name__}: {str(e)}"
+        error_type = type(e).__name__
+        error_msg = str(e)
+        print(f"  ERROR: {error_type}: {error_msg}", file=sys.stderr)
+        
+        # Print full traceback for debugging
+        import traceback
+        traceback.print_exc()
+        
+        return f"Analysis unavailable: {error_type} - {error_msg}"
 
 def create_hugo_post(entry, analysis):
     slug = entry['title'].lower()
