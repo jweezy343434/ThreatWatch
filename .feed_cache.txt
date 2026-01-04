@@ -118,3 +118,13 @@ https://blog.sekoia.io/advent-of-configuration-extraction-part-4-turning-capa-in
 https://blog.sekoia.io/sekoia-io-strengthens-collective-cyber-defense-at-nato-ccdcoes-crossed-swords-2025-exercise/
 https://blog.sekoia.io/advent-of-configuration-extraction-part-3-mapping-got-plt-and-disassembling-the-snowlight-loader/
 https://www.volexity.com/blog/2025/12/04/dangerous-invitations-russian-threat-actor-spoofs-european-security-events-in-targeted-phishing-attacks/
+https://www.volexity.com/blog/2025/10/08/apt-meets-gpt-targeted-operations-with-untamed-llms/
+https://www.volexity.com/blog/2025/08/11/go-get-em-updates-to-volexity-golang-tooling/
+https://www.group-ib.com/blog/online-job-scams-mena/
+https://www.group-ib.com/blog/mobile-malware-uzbekistan/
+https://www.group-ib.com/blog/ai-cybersecurity-guide-2025/
+https://cyble.com/blog/cisa-kev-2025-exploited-vulnerabilities-growth/
+https://cyble.com/blog/weekly-vulnerabilities-surge-trend-2026/
+https://cyble.com/blog/rto-scam-wave-continues/
+https://lab52.io/blog/dreamloaders/
+https://lab52.io/blog/analyzing-notdoor-inside-apt28s-expanding-arsenal/
