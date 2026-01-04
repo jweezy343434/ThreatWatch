@@ -158,3 +158,13 @@ https://fidelissecurity.com/threatgeek/cloud-security/enterprise-cloud-security-
 https://www.bitdefender.com/en-us/blog/labs/fake-leonardo-dicaprio-movie-torrent-agent-tesla-powershell
 https://www.bitdefender.com/en-us/blog/labs/cve-2025-55182-exploitation-hits-the-smart-home
 https://www.bitdefender.com/en-us/blog/labs/fake-battlefield-6-pirated-games-trainers
+https://securityaffairs.com/186450/hacking/thousands-of-coldfusion-exploit-attempts-spotted-during-christmas-holiday.html
+https://threatresearch.ext.hp.com/tracing-the-rise-of-breaches-involving-session-cookie-theft/
+https://threatresearch.ext.hp.com/hp-wolf-security-threat-insights-report-december-2025/
+https://threatresearch.ext.hp.com/hp-wolf-security-threat-insights-report-september-2025/
+https://www.morphisec.com/blog/ransomware-without-encryption-why-pure-exfiltration-attacks-are-surging-and-why-theyre-so-hard-to-catch/
+https://www.morphisec.com/blog/the-evolution-of-ransomware-entry-points-why-the-perimeter-isnt-the-perimeter-anymore/
+https://www.morphisec.com/blog/the-evolving-economics-of-ransomware-fewer-payments-bigger-payouts/
+https://www.zscaler.com/blogs/security-research/whats-powering-enterprise-ai-2025-threatlabz-report-sneak-peek
+https://www.zscaler.com/blogs/security-research/blindeagle-targets-colombian-government-agency-caminho-and-dcrat
+https://www.zscaler.com/blogs/security-research/technical-analysis-blackforce-phishing-kit
