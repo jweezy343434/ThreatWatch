@@ -108,3 +108,13 @@ https://gbhackers.com/google-tasks-feature-exploited/
 https://cyberscoop.com/treasury-removes-intellexa-spyware-linked-trio-from-sanctions-list/
 https://cyberscoop.com/openai-chatgpt-atlas-prompt-injection-browser-agent-security-update-head-of-preparedness/
 https://cyberscoop.com/ai-regulation-unified-federal-standards-needed-op-ed/
+https://thedfirreport.com/2025/11/17/cats-got-your-files-lynx-ransomware/
+https://thedfirreport.com/2025/09/29/from-a-single-click-how-lunar-spider-enabled-a-near-two-month-intrusion/
+https://thedfirreport.com/2025/09/08/blurring-the-lines-intrusion-shows-connection-with-three-major-ransomware-gangs/
+https://blog.eclecticiq.com/were-at-black-hat-europe
+https://blog.eclecticiq.com/the-reality-bargains-bring-risk
+https://blog.eclecticiq.com/why-no-business-is-immune-to-cyberattacks
+https://blog.sekoia.io/advent-of-configuration-extraction-part-4-turning-capa-into-a-configuration-extractor-for-tinyshell-variant/
+https://blog.sekoia.io/sekoia-io-strengthens-collective-cyber-defense-at-nato-ccdcoes-crossed-swords-2025-exercise/
+https://blog.sekoia.io/advent-of-configuration-extraction-part-3-mapping-got-plt-and-disassembling-the-snowlight-loader/
+https://www.volexity.com/blog/2025/12/04/dangerous-invitations-russian-threat-actor-spoofs-european-security-events-in-targeted-phishing-attacks/
