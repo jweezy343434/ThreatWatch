@@ -78,3 +78,13 @@ https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks
 https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/
 https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/
 https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/
+https://go.theregister.com/feed/www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/
+https://go.theregister.com/feed/www.theregister.com/2026/01/02/critical_utility_files_for_sale/
+https://go.theregister.com/feed/www.theregister.com/2026/01/02/brit_security_australia_visa/
+https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/
+https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/
+https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/
+https://www.helpnetsecurity.com/2026/01/02/shadow-ai-security-risks-tools-video/
+https://www.helpnetsecurity.com/2026/01/02/ai-embedded-systems-development/
+https://www.helpnetsecurity.com/2026/01/02/ai-threats-in-healthcare/
+https://www.bitdefender.com/en-us/blog/hotforsecurity/man-jailed-for-teaching-criminals-how-to-use-malware
