@@ -128,3 +128,13 @@ https://cyble.com/blog/weekly-vulnerabilities-surge-trend-2026/
 https://cyble.com/blog/rto-scam-wave-continues/
 https://lab52.io/blog/dreamloaders/
 https://lab52.io/blog/analyzing-notdoor-inside-apt28s-expanding-arsenal/
+https://lab52.io/blog/deedrat-backdoor-enhanced-by-chinese-apts-with-advanced-capabilities/
+https://intezer.com/blog/the-7-ciso-requirements-for-ai-soc-in-2026/
+https://intezer.com/blog/tracing-a-paper-werewolf-campaign-through-ai-generated-decoys-and-excel-xlls/
+https://intezer.com/blog/intezer-top-tier-microsoft-solutions-partner/
+https://socradar.io/blog/mongobleed-cve-2025-14847-mongodb-memory-leak/
+https://socradar.io/blog/ddos-threat-intelligence-international-29-dec25/
+https://socradar.io/blog/banco-vimenca-wired-government-data-leaks/
+https://levelblue.com/blogs/spiderlabs-blog/a-2025-threat-trends-analysis/
+https://levelblue.com/blogs/spiderlabs-blog/holiday-fraud-2025-gift-card-schemes-exploiting-seasonal-shopping/
+https://levelblue.com/blogs/spiderlabs-blog/levelblue-spiderlabs-sql-injection-in-orkes-conductor-cve-2025-66387/
