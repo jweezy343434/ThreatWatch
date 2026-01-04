@@ -88,3 +88,13 @@ https://www.helpnetsecurity.com/2026/01/02/shadow-ai-security-risks-tools-video/
 https://www.helpnetsecurity.com/2026/01/02/ai-embedded-systems-development/
 https://www.helpnetsecurity.com/2026/01/02/ai-threats-in-healthcare/
 https://www.bitdefender.com/en-us/blog/hotforsecurity/man-jailed-for-teaching-criminals-how-to-use-malware
+https://grahamcluley.com/smashing-security-podcast-446/
+https://www.fortra.com/blog/fbi-warns-surge-account-takeover-ato-fraud-schemes-need-know
+https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025
+https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet
+https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai
+https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/
+https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/
+https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/
+https://securityaffairs.com/186460/ai/french-authorities-investigate-ai-undressing-deepfakes-on-x.html
+https://securityaffairs.com/186450/uncategorized/thousands-of-coldfusion-exploit-attempts-spotted-during-christmas-holiday.html
