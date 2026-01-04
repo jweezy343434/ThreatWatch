@@ -168,3 +168,13 @@ https://www.morphisec.com/blog/the-evolving-economics-of-ransomware-fewer-paymen
 https://www.zscaler.com/blogs/security-research/whats-powering-enterprise-ai-2025-threatlabz-report-sneak-peek
 https://www.zscaler.com/blogs/security-research/blindeagle-targets-colombian-government-agency-caminho-and-dcrat
 https://www.zscaler.com/blogs/security-research/technical-analysis-blackforce-phishing-kit
+https://securityaffairs.com/186497/malware/security-affairs-malware-newsletter-round-78.html
+https://securityaffairs.com/186485/breaking-news/security-affairs-newsletter-round-557-by-pierluigi-paganini-international-edition.html
+https://threats.wiz.io/all-incidents/amadey-loader-abuses-compromised-self-hosted-gitlab-to-deliver-stealc-infostealer
+https://threats.wiz.io/all-incidents/china-nexus-campaign-exploits-cve-2025-20393-in-cisco-email-security-devices
+https://threats.wiz.io/all-incidents/shai-hulud-20-supply-chain-attack
+https://permiso.io/blog/gainsight-breach-investigation-another-salesloft-style-attack-unfolds
+https://permiso.io/blog/8-critical-ai-security-challenges
+https://permiso.io/blog/identity-visibility-and-intelligence-with-permiso-discover
+https://asec.ahnlab.com/en/91732/
+https://asec.ahnlab.com/en/91725/
