@@ -178,3 +178,13 @@ https://permiso.io/blog/8-critical-ai-security-challenges
 https://permiso.io/blog/identity-visibility-and-intelligence-with-permiso-discover
 https://asec.ahnlab.com/en/91732/
 https://asec.ahnlab.com/en/91725/
+https://asec.ahnlab.com/en/91683/
+https://blogs.jpcert.or.jp/en/2025/11/YAMAGoya.html
+https://blogs.jpcert.or.jp/en/2025/11/APT-C-60_update.html
+https://blogs.jpcert.or.jp/en/2025/10/tsubame_overflow_2025-04-06.html
+https://doublepulsar.com/merry-christmas-day-have-a-mongodb-security-incident-9537f54289eb?source=rss----8343faddf0ec---4
+https://doublepulsar.com/cybersecurity-industry-overreacts-to-react-vulnerability-starts-panic-burns-own-house-down-again-e85c10ad1607?source=rss----8343faddf0ec---4
+https://doublepulsar.com/small-numbers-of-notepad-users-reporting-security-woes-371d7a3fd2d9?source=rss----8343faddf0ec---4
+https://www.troyhunt.com/weekly-update-484/
+https://www.troyhunt.com/weekly-update-483/
+https://www.troyhunt.com/weekly-update-482/
