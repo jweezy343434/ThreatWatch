@@ -4,10 +4,11 @@ import anthropic
 import yaml
 import os
 import hashlib
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 import time
 import sys
+import traceback
 
 FEEDS_CONFIG = 'config/feeds.yaml'
 CONTENT_DIR = 'content/posts'
@@ -56,7 +57,7 @@ def fetch_entries(feeds):
                     'priority': feed.get('priority', 3)
                 })
         except Exception as e:
-            print(f"Error: {e}")
+            print(f"Error fetching {feed['name']}: {e}")
             continue
     
     new_entries.sort(key=lambda x: x['priority'])
@@ -65,10 +66,7 @@ def fetch_entries(feeds):
 def generate_analysis(entry):
     api_key = os.environ.get('ANTHROPIC_API_KEY')
     if not api_key:
-        print("ERROR: ANTHROPIC_API_KEY not set", file=sys.stderr)
-        return "Analysis unavailable: ANTHROPIC_API_KEY not set in environment"
-    
-    print(f"  Using API key: {api_key[:10]}...")
+        return "Analysis unavailable: API key not configured"
     
     try:
         client = anthropic.Anthropic(api_key=api_key)
@@ -91,25 +89,17 @@ What to do
 
 Keep under 250 words."""
 
-        print(f"  Making API call to Anthropic...")
         message = client.messages.create(
             model="claude-sonnet-4-20250514",
             max_tokens=800,
             messages=[{"role": "user", "content": prompt}]
         )
-        print(f"  API call successful")
         return message.content[0].text
         
     except Exception as e:
-        error_type = type(e).__name__
-        error_msg = str(e)
-        print(f"  ERROR: {error_type}: {error_msg}", file=sys.stderr)
-        
-        # Print full traceback for debugging
-        import traceback
+        print(f"API ERROR: {type(e).__name__}: {str(e)}", file=sys.stderr)
         traceback.print_exc()
-        
-        return f"Analysis unavailable: {error_type} - {error_msg}"
+        return f"Analysis unavailable: {type(e).__name__} - {str(e)}"
 
 def create_hugo_post(entry, analysis):
     slug = entry['title'].lower()
@@ -161,10 +151,10 @@ def main():
         analysis = generate_analysis(entry)
         filepath = create_hugo_post(entry, analysis)
         save_to_cache(entry['link'])
-        print(f"  Created: {filepath.name}\n")
+        print(f"  Created: {filepath.name}")
         time.sleep(1)
     
-    print(f"✓ Processed {len(entries)} articles")
+    print(f"\n✓ Processed {len(entries)} articles")
 
 if __name__ == '__main__':
     main()
