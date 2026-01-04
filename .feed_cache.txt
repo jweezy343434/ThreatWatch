@@ -98,3 +98,13 @@ https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-st
 https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/
 https://securityaffairs.com/186460/ai/french-authorities-investigate-ai-undressing-deepfakes-on-x.html
 https://securityaffairs.com/186450/uncategorized/thousands-of-coldfusion-exploit-attempts-spotted-during-christmas-holiday.html
+https://securityaffairs.com/186446/cyber-crime/two-u-s-cybersecurity-professionals-plead-guilty-in-blackcat-alphv-ransomware-case.html
+https://cybersecuritynews.com/infostealers-to-hijack-legitimate-business-infrastructure/
+https://cybersecuritynews.com/finland-arrests-two-cargo-ship-crew-members/
+https://cybersecuritynews.com/vvs-stealer-uses-pyarmor-obfuscation-to-evade-static-analysis-and-signature-detection/
+https://gbhackers.com/finnish-authorities-arrest-two-sailors-in-probe/
+https://gbhackers.com/handala-hackers-breach/
+https://gbhackers.com/google-tasks-feature-exploited/
+https://cyberscoop.com/treasury-removes-intellexa-spyware-linked-trio-from-sanctions-list/
+https://cyberscoop.com/openai-chatgpt-atlas-prompt-injection-browser-agent-security-update-head-of-preparedness/
+https://cyberscoop.com/ai-regulation-unified-federal-standards-needed-op-ed/
