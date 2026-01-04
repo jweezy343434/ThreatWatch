@@ -148,3 +148,13 @@ http://blog.quarkslab.com/k7-antivirus-named-pipe-abuse-registry-manipulation-an
 http://blog.quarkslab.com/bitcoin-core-audit.html
 https://www.silentpush.com/blog/bph-white-paper/?utm_source=rss&utm_medium=rss&utm_campaign=bph-white-paper
 https://www.silentpush.com/news/silent-push-acquires-hyas/?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-acquires-hyas
+https://www.silentpush.com/white-papers-and-reports/bph-white-paper-2025/?utm_source=rss&utm_medium=rss&utm_campaign=bph-white-paper-2025
+https://redcanary.com/blog/security-operations/office-hours-december-2025/
+https://redcanary.com/blog/threat-intelligence/intelligence-insights-december-2025/
+https://redcanary.com/blog/security-operations/best-of-2025/
+https://fidelissecurity.com/threatgeek/cloud-security/cnapp-integrations/
+https://fidelissecurity.com/threatgeek/endpoint-security/inside-fidelis-edr-technology-detect-respond-and-remediate/
+https://fidelissecurity.com/threatgeek/cloud-security/enterprise-cloud-security-trends/
+https://www.bitdefender.com/en-us/blog/labs/fake-leonardo-dicaprio-movie-torrent-agent-tesla-powershell
+https://www.bitdefender.com/en-us/blog/labs/cve-2025-55182-exploitation-hits-the-smart-home
+https://www.bitdefender.com/en-us/blog/labs/fake-battlefield-6-pirated-games-trainers
