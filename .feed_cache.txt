@@ -48,3 +48,13 @@ https://www.trendmicro.com/en_us/research/25/l/operation-sentinel-digital-extort
 https://www.trendmicro.com/en_us/research/25/l/managing-cloud-risk.html
 https://blog.qualys.com/category/product-tech
 https://blog.qualys.com/category/product-tech
+https://www.rapid7.com/blog/post/metasploit-wrap-up-12-19-2025
+https://www.rapid7.com/blog/post/etr-cve-2025-37164-critical-unauthenticated-rce-affecting-hewlett-packard-enterprise-oneview
+https://www.rapid7.com/blog/post/etr-critical-vulnerabilities-in-fortinet-cve-2025-59718-cve-2025-59719-exploited-in-the-wild
+https://www.recordedfuture.com/research/bluedeltas-persistent-campaign-against-ukrnet
+https://www.recordedfuture.com/blog/transaction-that-signaled-nation-state-cyberattack
+https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026
+https://www.tenable.com/blog/cybersecurity-snapshot-2026-cyber-predictions-ai-security-agentic-ai-custom-ai-tools-automated-remediation-identity-security-cloud-risk-1-2-2026
+https://www.tenable.com/blog/cve-2025-14847-mongobleed-mongodb-memory-leak-vulnerability-exploited-in-the-wild
+https://www.tenable.com/blog/cybersecurity-snapshot-ai-security-ot-security-vulnerability-exposure-management-cloud-security-strategies-12-26-2025
+https://www.akamai.com/blog/security-research/2025/dec/cve-2025-14847-all-you-need-to-know-about-mongobleed
