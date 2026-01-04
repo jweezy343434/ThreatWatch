@@ -58,3 +58,13 @@ https://www.tenable.com/blog/cybersecurity-snapshot-2026-cyber-predictions-ai-se
 https://www.tenable.com/blog/cve-2025-14847-mongobleed-mongodb-memory-leak-vulnerability-exploited-in-the-wild
 https://www.tenable.com/blog/cybersecurity-snapshot-ai-security-ot-security-vulnerability-exposure-management-cloud-security-strategies-12-26-2025
 https://www.akamai.com/blog/security-research/2025/dec/cve-2025-14847-all-you-need-to-know-about-mongobleed
+https://www.akamai.com/blog/developers/2025/dec/built-rag-bot-decode-airline-bureaucracy
+https://www.akamai.com/blog/cloud/2025/dec/ai-actor-tilly-norwood-impact-cloud-infrastructure
+https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/
+https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/
+https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/
+https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html
+https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html
+https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html
+https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/
+https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/
