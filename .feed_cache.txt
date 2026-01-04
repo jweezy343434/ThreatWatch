@@ -138,3 +138,13 @@ https://socradar.io/blog/banco-vimenca-wired-government-data-leaks/
 https://levelblue.com/blogs/spiderlabs-blog/a-2025-threat-trends-analysis/
 https://levelblue.com/blogs/spiderlabs-blog/holiday-fraud-2025-gift-card-schemes-exploiting-seasonal-shopping/
 https://levelblue.com/blogs/spiderlabs-blog/levelblue-spiderlabs-sql-injection-in-orkes-conductor-cve-2025-66387/
+https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/
+https://securityaffairs.com/186473/security/president-trump-blocks-2-9m-emcore-chip-sale-over-security-concerns.html
+https://blog.trailofbits.com/2025/12/31/detect-gos-silent-arithmetic-bugs-with-go-panikint/
+https://blog.trailofbits.com/2025/12/19/can-chatbots-craft-correct-code/
+https://blog.trailofbits.com/2025/12/16/use-gwp-asan-to-detect-exploits-in-production-environments/
+http://blog.quarkslab.com/modern-tale-blinkenlights.html
+http://blog.quarkslab.com/k7-antivirus-named-pipe-abuse-registry-manipulation-and-privilege-escalation.html
+http://blog.quarkslab.com/bitcoin-core-audit.html
+https://www.silentpush.com/blog/bph-white-paper/?utm_source=rss&utm_medium=rss&utm_campaign=bph-white-paper
+https://www.silentpush.com/news/silent-push-acquires-hyas/?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-acquires-hyas
