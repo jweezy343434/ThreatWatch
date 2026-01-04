@@ -4,3 +4,4 @@ __pycache__/
 .feed_cache.txt
 .DS_Store
 public/
+.env
